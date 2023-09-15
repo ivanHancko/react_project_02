@@ -10,12 +10,7 @@ const App = () => {
   const allData = data.map ( item => {
     return <Card 
       key = {item.id}
-      img = {item.coverImg}
-      rate = {item.stats.rating}
-      total = {item.stats.reviewCount}
-      location = {item.location}
-      title = {item.title}
-      price = {item.price}
+      item = {item}
   >
   </Card>
   })

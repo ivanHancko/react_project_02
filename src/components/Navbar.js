@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../images/airbnb.png'
+import logo from '../img/airbnb.png'
 
 const Navbar = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import grid from '../images/grid.png'
+import grid from '../img/grid.png'
 
 const Hero = () => {
 
